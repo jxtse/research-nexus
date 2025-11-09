@@ -1,0 +1,48 @@
+[
+  {
+    "id": "13adc652-c1ff-4dde-8ec1-587e7fed9c08",
+    "name": "test",
+    "description": "",
+    "nodes": [
+      {
+        "id": "node-1762669554031",
+        "type": "question",
+        "content": "我想要使用机器学习预测多肽自组装",
+        "position": {
+          "x": 81,
+          "y": 330
+        },
+        "metadata": {
+          "confidence": 0.8,
+          "createdAt": "2025-11-09T06:25:54.031Z",
+          "updatedAt": "2025-11-09T07:35:27.196Z",
+          "aiGenerated": false
+        },
+        "connections": []
+      },
+      {
+        "id": "node-1762673751102",
+        "type": "reasoning",
+        "content": "",
+        "position": {
+          "x": -129,
+          "y": 466
+        },
+        "metadata": {
+          "confidence": 0.8,
+          "createdAt": "2025-11-09T07:35:51.102Z",
+          "updatedAt": "2025-11-09T07:38:08.948Z",
+          "aiGenerated": false
+        },
+        "connections": []
+      }
+    ],
+    "createdAt": "2025-11-09T06:22:31.464Z",
+    "updatedAt": "2025-11-09T07:38:08.948Z",
+    "settings": {
+      "model": "openai/gpt-5",
+      "temperature": 0.7,
+      "maxTokens": 2000
+    }
+  }
+]
